@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/pi/Documents/PSAT/PSAT_Server/posturalCam_master_NETWORK.py", line 2605, in <module>
+    main(t = 5)
+  File "/home/pi/Documents/PSAT/PSAT_Server/posturalCam_master_NETWORK.py", line 2448, in main
+    cam_server()
+  File "/home/pi/Documents/PSAT/PSAT_Server/posturalCam_master_NETWORK.py", line 2372, in cam_server
+    myCam.TCP_server_start()
+  File "/home/pi/Documents/PSAT/PSAT_Server/posturalCam_master_NETWORK.py", line 449, in TCP_server_start
+    serversocket.bind((host, port)) 
+OSError: [Errno 99] Cannot assign requested address

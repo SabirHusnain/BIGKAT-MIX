@@ -1,0 +1,14 @@
+The basepath is F:\BS Mechatronics\FYP_OMCS\My Code\PSAT
+False
+.
+F:\BS Mechatronics\FYP_OMCS\My Code\PSAT
+No module named 'PySide'
+Looking for PyQT
+HIDE
+LOOKING FOR CONNECTION
+
+SHOW
+RECIEVED LENGTH: 0
+IN
+OUT
+HIDE

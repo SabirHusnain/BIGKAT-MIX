@@ -1,0 +1,17 @@
+SHOW
+LOOKING FOR CONNECTION
+
+RECIEVED LENGTH: 0
+IN
+OUT
+RECIEVED LENGTH: 0
+IN
+OUT
+IN
+Key Pressed
+TCP Client: Could not connect to server. Trying again in 0.5 seconds
+BACKEND NOT LIVE
+NO LONGER LOOKING
+OUT
+IN
+OUT

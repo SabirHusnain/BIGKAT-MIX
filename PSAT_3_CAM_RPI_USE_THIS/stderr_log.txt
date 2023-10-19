@@ -1,0 +1,7 @@
+Exception ignored in: <module 'threading' from 'C:\\Users\\sabir\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py'>
+Traceback (most recent call last):
+  File "C:\Users\sabir\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 1583, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <_io.TextIOWrapper name='F:\\BS Mechatronics\\FYP_OMCS\\My Code\\PSAT_Raspi\\PSAT\\stdout.txt' mode='w' encoding='cp1252'>
+KeyboardInterrupt: 

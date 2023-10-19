@@ -1,0 +1,51 @@
+To do list for the Postural Control Project:
+
+Backend:
+
+-Test synchrony between cameras. Sometimes there is a delay on one camera
+-Camera calibration get frames raises an error when the last frame + 1 is called
+	-This is actually fixed now. An excpetion occurs because the files are in the wrong folders OG 13/09/16
+-Camera calibration places stereo calibration files into wrong folder. Place into the correct folders and automatically delete old files
+-Test spatial layout of cameras. There is a relationship between position and accuracy
+-Fix multicore marker tracking
+-Data analysis:
+	-What do we actually want as output?
+
+
+
+GUI:
+
+-Add basic GUI functionality
+	-Start Recording Button - Start recording on RPi
+	-Preview - Preview the cameras. Add a check button to enable marker tracking
+	-Time to record for option (On camera or demographics window?)
+	-Allow input of todays date (Is it worth getting a clock for the device)
+
+-Finish virtual keyboard 
+	-Allow to move to caps
+	-Offset letter placement
+	
+-File management system
+
+-Camera preview system
+
+-Monitor device memory and warn when videos need deleting
+
+
+
+
+
+
+
+Backend improvements (Not urgent):
+
+-Kalman filter in Stan to reflect one moving object. Currently acts like tracking two independent objects
+-Better blob detection (subpixel)
+-Synchonize cameras post-hoc (could integrate into Kalman filter)
+-Replace cameras with time locked cameras (If possible)
+-Faster graphics processing (Better hardware or optimize with GPU)
+
+
+GUI Improvements (Not Urgent):
+
+-PySide2 is in development (wrapper for QT5). This could be useful in the future

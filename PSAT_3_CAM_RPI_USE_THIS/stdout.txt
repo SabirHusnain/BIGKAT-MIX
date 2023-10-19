@@ -1,0 +1,18 @@
+The basepath is F:\BS Mechatronics\FYP_OMCS\My Code\PSAT_Raspi\PSAT
+False
+
+F:\BS Mechatronics\FYP_OMCS\My Code\PSAT_Raspi\PSAT
+HIDE
+LOOKING FOR CONNECTION
+
+SHOW
+RECIEVED LENGTH: 0
+IN
+OUT
+RECIEVED LENGTH: 0
+IN
+OUT
+HIDE
+TCP Client: Could not connect to server. Trying again in 0.5 seconds
+BACKEND NOT LIVE
+NO LONGER LOOKING
